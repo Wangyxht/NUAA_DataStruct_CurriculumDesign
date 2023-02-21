@@ -1,0 +1,9 @@
+1799
+592.388
+100
+2146.34
+0.75
+1.33333
+17.7119
+Invalid Expression
+Invalid Expression
